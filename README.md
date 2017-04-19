@@ -6,3 +6,8 @@ start fe
 start 2 fej
 asdkjgi2
 fad
+
+
+rick
+rick
+rcik
